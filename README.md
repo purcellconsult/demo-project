@@ -1,2 +1,9 @@
-# demo-project
-This is an example of how to create a repository in GitHub. 
+# Sample GitHub Project
+
+This is a test repository. 
+
+The features in this includes:
+
+ - Item a
+ - Item b
+ - Item c 
